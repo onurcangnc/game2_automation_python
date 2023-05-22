@@ -1,6 +1,6 @@
 # Game2 Automation Python
 
-This project aims to develop a game bot using Python, specifically utilizing the PyAutoGUI and OpenCV libraries, to automate tasks and achieve optimal performance in the game "cookieClicker". By leveraging computer vision and input simulation techniques, this bot will be capable of interacting with the game's user interface and executing various actions with high precision and efficiency.
+This project aims to develop a clone game bot using Python, specifically utilizing the PyAutoGUI and OpenCV libraries, to automate tasks and achieve optimal performance in the game "cookieClicker". By leveraging computer vision and input simulation techniques, this bot will be capable of interacting with the game's user interface and executing various actions with high precision and efficiency.
 
 ## Features
 
