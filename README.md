@@ -21,8 +21,8 @@ This project aims to develop a game bot using Python, specifically utilizing the
 - **git clone https://github.com/onurcangnc/game2_automation_python**
 2. Navigate to the project directory:
 - **cd game2_automation_python**
-3. Install the required dependencies using pip:
-- **pip install -r requirements.txt**
+3. Run the project:
+- **python cookieClicker.py**
 
 ## Usage
 
