@@ -60,3 +60,6 @@ Please note that this project is created for educational and personal use only. 
 ---
 
 With this comprehensive README, users will have a clear understanding of the project's purpose, how to install and use it, and the guidelines for contributions. It also includes information about licensing and external libraries used. Remember to update the sections accordingly if any changes are made to the project.
+
+## WARNING
+- The project is a clone project for openCV image detection & processing
